@@ -18,11 +18,11 @@ SORT file.name DESC
 LIMIT 20
 ```
 
-## Mac Mini 1 Tasks
+## Virtual Lending Mac Mini Tasks
 
 ```dataview
 TABLE status, updated
-FROM "02-Tasks/Mac-Mini-1"
+FROM "02-Tasks/Virtual Lending Mac Mini"
 SORT updated DESC
 ```
 
