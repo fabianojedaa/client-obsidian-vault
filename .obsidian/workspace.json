@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "OpenClaw Dashboard"
             }
+          },
+          {
+            "id": "08f9bc8f964bc395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Daily-Logs/VirtuaLending Mac Mini/2026-06-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-03"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,8 +223,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c485100e8588b87b",
+  "active": "785c9caa8c1079a7",
   "lastOpenFiles": [
+    "01-Daily-Logs/openclaw-daily-log-rules.md",
+    "01-Daily-Logs/VirtuaLending Mac Mini/test.md",
+    "00-Dashboard/OpenClaw Dashboard.md",
     "01-VirtuaLending/Daily-Logs/2026-06-03.md",
     "01-VirtuaLending/Dashboard.md",
     "05-Overrides/virtualisting.md",
@@ -228,12 +245,10 @@
     "02-BetterProcessors/Loan-Files",
     "02-BetterProcessors/Daily-Logs",
     "02-Tasks/Virtual Lending Mac Mini/google-sheets-fabian-fix.md",
-    "00-Dashboard/OpenClaw Dashboard.md",
     "01-Daily-Logs/VirtuaLending Mac Mini/2026-06-03.md",
     "04-SOPs/openclaw-task-rules.md",
     "02-Tasks/Virtua Lending Mac Mini/google-sheets-fabian-fix.md",
     "02-Tasks/VirtuaLending Mac Mini/google-sheets-fabian-fix.md",
-    "01-Daily-Logs/openclaw-daily-log-rules.md",
     "04-SOPs/openclaw-daily-log-rules.md",
     "AGENTS.md",
     "Openclawrules.md",
