@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Logs/openclaw-daily-log-rules.md",
+                "file": "02-Tasks/vlprocessing3/implement-obsidian-sops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openclaw-daily-log-rules"
+              "title": "implement-obsidian-sops"
             }
           },
           {
@@ -226,6 +226,7 @@
   "active": "785c9caa8c1079a7",
   "lastOpenFiles": [
     "launchd-test.md",
+<<<<<<< HEAD
     "01-Daily-Logs/openclaw-daily-log-rules.md",
     "01-Daily-Logs/VirtuaLending Mac Mini/test.md",
     "00-Dashboard/OpenClaw Dashboard.md",
@@ -258,5 +259,28 @@
     "openclaw-daily-log-rules.md",
     "openclaw-task-rules.md",
     "SOPs/openclaw-task-rules.md"
+=======
+    "00-Dashboard/OpenClaw Dashboard.md",
+    "01-Daily-Logs/vlprocessing3/2026-06-08.md",
+    "02-Tasks/vlprocessing3/implement-obsidian-sops.md",
+    "02-Tasks/vlprocessing3",
+    "01-Daily-Logs/vlprocessing3",
+    "04-SOPs/openclaw-daily-log-rules.md",
+    "01-Daily-Logs/openclaw-daily-log-rules.md",
+    "04-SOPs/openclaw-task-rules.md",
+    "04-SOPs",
+    "05-OpenClawLogs/Mac-Mini-3",
+    "05-OpenClawLogs/Mac-Mini-2",
+    "05-OpenClawLogs/Mac-Mini-1",
+    "05-OpenClawLogs",
+    "OpenClaw Dashboard Dashboard.md",
+    "OpenClaw Dashboard.md",
+    "00-Dashboard",
+    "openclaw-daily-log-rules.md",
+    "openclaw-task-rules.md",
+    "SOPs/openclaw-task-rules.md",
+    "SOPs",
+    "Sops"
+>>>>>>> b6e6980 (Auto sync from Better processors - 2026-06-08 17:25:47)
   ]
 }
