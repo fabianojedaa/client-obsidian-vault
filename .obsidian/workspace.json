@@ -11,10 +11,14 @@
             "id": "2104cc5f4778b5df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Daily-Logs/VirtuaListing/2026-07-09.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-09"
             }
           }
         ]
@@ -176,8 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "785c9caa8c1079a7",
+  "active": "2104cc5f4778b5df",
   "lastOpenFiles": [
+    "test-vl.md",
     "01-Daily-Logs/VirtuaLending Mac Mini/2026-06-03.md",
     "01-Daily-Logs/VirtuaListing/2026-07-09.md",
     "05-Overrides/virtualisting.md",
@@ -212,7 +217,6 @@
     "04-SOPs",
     "OpenClaw Dashboard Dashboard.md",
     "OpenClaw Dashboard.md",
-    "openclaw-daily-log-rules.md",
-    "openclaw-task-rules.md"
+    "openclaw-daily-log-rules.md"
   ]
 }
