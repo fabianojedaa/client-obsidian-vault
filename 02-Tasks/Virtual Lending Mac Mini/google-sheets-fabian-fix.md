@@ -42,5 +42,4 @@ _(Daniel's notes here)_
 ---
 
 ## Final Outcome
-
 _(To be filled when resolved)_
