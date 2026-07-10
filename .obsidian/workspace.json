@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lama2.md",
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lama2"
+              "title": "OpenClaw Dashboard"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lama2.md",
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lama2"
+              "title": "Backlinks for OpenClaw Dashboard"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lama2.md",
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lama2"
+              "title": "Outgoing links from OpenClaw Dashboard"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lama2.md",
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lama2"
+              "title": "Outline of OpenClaw Dashboard"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "4d99d2fcc37af172",
   "lastOpenFiles": [
-    "00-Dashboard/OpenClaw Dashboard.md",
     "lama2.md",
+    "00-Dashboard/OpenClaw Dashboard.md",
     "lama.md"
   ]
 }
