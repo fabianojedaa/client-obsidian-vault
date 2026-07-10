@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "2026-06-03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "785c9caa8c1079a7",
+  "active": "d6a52d4ed474daab",
   "lastOpenFiles": [
     "test-vl3.md",
     "01-Daily-Logs/VirtuaListing/2026-07-09.md",
