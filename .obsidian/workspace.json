@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily-Logs/VirtuaListing/2026-07-09.md",
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-09"
+              "title": "OpenClaw Dashboard"
             }
           }
         ]
@@ -183,48 +183,8 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "ad1c1d6917d7c0d4",
-  "lastOpenFiles": [
-    "test-vl2.md",
-    "02-Tasks/BetterProcessors/test-task.md",
-    "02-Tasks/BetterProcessors",
-    "01-Daily-Logs/BetterProcessors/2026-07-10.md",
-    "01-Daily-Logs/BetterProcessors",
-    "test-vl3.md",
-    "01-Daily-Logs/VirtuaListing/2026-07-09.md",
-    "01-VirtuaLending/Daily-Logs/2026-06-03.md",
-    "02-Tasks/Virtual Lending Mac Mini/google-sheets-fabian-fix.md",
-    "02-Tasks/vlprocessing3/implement-obsidian-sops.md",
-    "01-Daily-Logs/vlprocessing3/2026-06-08.md",
-    "test-vl.md",
-    "01-Daily-Logs/VirtuaLending Mac Mini/2026-06-03.md",
-    "05-Overrides/virtualisting.md",
-    "02-Tasks/VirtuaListing",
-    "01-Daily-Logs/VirtuaListing",
-    "05-Overrides/virtualending.md",
-    "05-Overrides/global.md",
-    "05-Overrides/betterprocessors.md",
-    "04-SOPs/openclaw-task-rules.md",
-    "04-SOPs/openclaw-daily-log-rules.md",
-    "00-Dashboard/OpenClaw Dashboard.md",
-    "test3.md",
-    "test2.md",
-    "testfile.md",
-    "launchd-test1.md",
-    "AGENTS.md",
-    "05-Overrides",
-    "02-Tasks/Virtual Lending Mac Mini",
-    "01-VirtuaLending/Dashboard.md",
-    "01-VirtuaLending/Daily-Logs",
-    "01-VirtuaLending",
-    "01-Daily-Logs/VirtuaLending Mac Mini/test.md",
-    "01-Daily-Logs/VirtuaLending Mac Mini",
-    "launchd-test.md",
-    "02-Tasks/vlprocessing3"
-  ]
-=======
   "active": "a595865af62ccbd8",
-  "lastOpenFiles": []
->>>>>>> a4d2c14 (Auto sync from VirtuaLending Mac mini - 2026-07-10 14:22:59)
+  "lastOpenFiles": [
+    "lama2.md"
+  ]
 }
