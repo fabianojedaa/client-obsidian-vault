@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "6f4104d141801258",
+    "id": "9f0b7a9fe5848e30",
     "type": "split",
     "children": [
       {
-        "id": "7877b74c90384fcb",
+        "id": "084f3c6adb55c104",
         "type": "tabs",
         "children": [
           {
-            "id": "ad1c1d6917d7c0d4",
+            "id": "a595865af62ccbd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "43e2b0ca0d3cb138",
+    "id": "a2ea6c9632b76fb2",
     "type": "split",
     "children": [
       {
-        "id": "67aa0e96b9c2b812",
+        "id": "63ee9e45e2bf8eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "785c9caa8c1079a7",
+            "id": "1a398adbc4d37670",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d6a52d4ed474daab",
+            "id": "37d16fb5f3262d5f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "622bcab24506cf94",
+            "id": "3ecaad61870386b0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,42 +73,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "2104cc5f4778b5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-VirtuaLending/Daily-Logs/2026-06-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-03"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "2a45150ad9c234b2",
+    "id": "16f57899a85f4331",
     "type": "split",
     "children": [
       {
-        "id": "cea50630dbcfae7f",
+        "id": "eeded93e8900881b",
         "type": "tabs",
         "children": [
           {
-            "id": "c50c8a79874a416a",
+            "id": "3df0070ecf8bc880",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for OpenClaw Dashboard"
             }
           },
           {
-            "id": "26bee4775841810b",
+            "id": "df51674fbd338165",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from OpenClaw Dashboard"
             }
           },
           {
-            "id": "e4a674687fc9c511",
+            "id": "9ef45754db834f8c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +137,7 @@
             }
           },
           {
-            "id": "20fe3521d7ad443f",
+            "id": "cf9db08215633f50",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,17 +151,18 @@
             }
           },
           {
-            "id": "ef8826dd7bd9cd6c",
+            "id": "ed03a21c76fbee28",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-Dashboard/OpenClaw Dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OpenClaw Dashboard"
             }
           }
         ]
@@ -195,6 +183,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "ad1c1d6917d7c0d4",
   "lastOpenFiles": [
     "test-vl2.md",
@@ -234,4 +223,8 @@
     "launchd-test.md",
     "02-Tasks/vlprocessing3"
   ]
+=======
+  "active": "a595865af62ccbd8",
+  "lastOpenFiles": []
+>>>>>>> a4d2c14 (Auto sync from VirtuaLending Mac mini - 2026-07-10 14:22:59)
 }
