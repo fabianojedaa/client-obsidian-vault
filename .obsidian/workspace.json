@@ -1,84 +1,37 @@
 {
   "main": {
-    "id": "6f4104d141801258",
+    "id": "c2c54055ab74e568",
     "type": "split",
     "children": [
       {
-        "id": "b0cb3bbad64f64b7",
+        "id": "90cee9a6a54b3083",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0211fff9e5f137",
+            "id": "ae7af1522fa92d1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Tasks/vlprocessing3/implement-obsidian-sops.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "implement-obsidian-sops"
-            }
-          },
-          {
-            "id": "f75e3eb617254de8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testfile"
-            }
-          },
-          {
-            "id": "170eed1da4b1932a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Tasks/Virtual Lending Mac Mini/google-sheets-fabian-fix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "google-sheets-fabian-fix"
-            }
-          },
-          {
-            "id": "933a5e6b61d54431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Tasks/Virtual Lending Mac Mini/google-sheets-fabian-fix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "google-sheets-fabian-fix"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "43e2b0ca0d3cb138",
+    "id": "39188cd8b40f164c",
     "type": "split",
     "children": [
       {
-        "id": "67aa0e96b9c2b812",
+        "id": "8b231dd84727cdeb",
         "type": "tabs",
         "children": [
           {
-            "id": "785c9caa8c1079a7",
+            "id": "0a10894166fa1a1f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +44,7 @@
             }
           },
           {
-            "id": "d6a52d4ed474daab",
+            "id": "048fb61beb29c014",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +61,7 @@
             }
           },
           {
-            "id": "622bcab24506cf94",
+            "id": "0d3971648eb04ba5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -117,23 +70,22 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "2a45150ad9c234b2",
+    "id": "fb194cef62c562f8",
     "type": "split",
     "children": [
       {
-        "id": "cea50630dbcfae7f",
+        "id": "7d6447a4e8a30c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "c50c8a79874a416a",
+            "id": "2fed86bb0d45b6b8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -151,7 +103,7 @@
             }
           },
           {
-            "id": "26bee4775841810b",
+            "id": "9dcd494a7ca557b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -164,7 +116,7 @@
             }
           },
           {
-            "id": "e4a674687fc9c511",
+            "id": "c7becfcf13894e72",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,7 +131,7 @@
             }
           },
           {
-            "id": "20fe3521d7ad443f",
+            "id": "7891b6481f49eb16",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -193,7 +145,7 @@
             }
           },
           {
-            "id": "ef8826dd7bd9cd6c",
+            "id": "b72797a8302e5716",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -224,43 +176,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6a52d4ed474daab",
+  "active": "0a10894166fa1a1f",
   "lastOpenFiles": [
-    "lama.md",
-    "02-Tasks/Virtual Lending Mac Mini/Test file - Fabian.md",
-    "test-vl.md",
-    "02-Tasks/Virtual Lending Mac Mini/google-sheets-fabian-fix.md",
-    "test2.md",
-    "00-Dashboard/OpenClaw Dashboard.md",
-    "01-Daily-Logs/vlprocessing3/2026-06-08.md",
-    "test3.md",
-    "01-Daily-Logs/VirtuaListing/2026-07-09.md",
-    "01-Daily-Logs/VirtuaListing",
-    "testfile.md",
-    "02-Tasks/vlprocessing3/implement-obsidian-sops.md",
-    "launchd-test1.md",
-    "AGENTS.md",
-    "05-Overrides/virtualisting.md",
-    "05-Overrides/virtualending.md",
-    "05-Overrides/global.md",
-    "05-Overrides/betterprocessors.md",
-    "05-Overrides",
-    "02-Tasks/Virtual Lending Mac Mini",
-    "01-VirtuaLending/Daily-Logs/2026-06-03.md",
-    "01-VirtuaLending/Dashboard.md",
-    "01-VirtuaLending/Daily-Logs",
-    "01-VirtuaLending",
-    "01-Daily-Logs/VirtuaLending Mac Mini/test.md",
-    "01-Daily-Logs/VirtuaLending Mac Mini/2026-06-03.md",
-    "01-Daily-Logs/VirtuaLending Mac Mini",
-    "launchd-test.md",
-    "02-Tasks/vlprocessing3",
-    "01-Daily-Logs/vlprocessing3",
-    "04-SOPs/openclaw-daily-log-rules.md",
-    "01-Daily-Logs/openclaw-daily-log-rules.md",
-    "04-SOPs/openclaw-task-rules.md",
-    "04-SOPs",
-    "05-OpenClawLogs/Mac-Mini-3",
-    "OpenClaw Dashboard Dashboard.md"
+    "lama.md"
   ]
 }
