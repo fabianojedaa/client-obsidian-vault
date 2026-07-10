@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,6 +226,7 @@
   },
   "active": "d6a52d4ed474daab",
   "lastOpenFiles": [
+    "lama.md",
     "02-Tasks/Virtual Lending Mac Mini/Test file - Fabian.md",
     "test-vl.md",
     "02-Tasks/Virtual Lending Mac Mini/google-sheets-fabian-fix.md",
@@ -260,7 +261,6 @@
     "04-SOPs/openclaw-task-rules.md",
     "04-SOPs",
     "05-OpenClawLogs/Mac-Mini-3",
-    "OpenClaw Dashboard Dashboard.md",
-    "OpenClaw Dashboard.md"
+    "OpenClaw Dashboard Dashboard.md"
   ]
 }
