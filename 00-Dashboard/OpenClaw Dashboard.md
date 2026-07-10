@@ -26,18 +26,18 @@ FROM "02-Tasks/Virtual Lending Mac Mini"
 SORT updated DESC
 ```
 
-## Mac Mini 2 Tasks
+## Better Processor Tasks
 
 ```dataview
 TABLE status, updated
-FROM "02-Tasks/Mac-Mini-2"
+FROM "02-Tasks/BetterProcessors"
 SORT updated DESC
 ```
 
-## Mac Mini 3 Tasks
+## VirtuaListing Tasks
 
 ```dataview
 TABLE status, updated
-FROM "02-Tasks/Mac-Mini-3"
+FROM "02-Tasks/VirtuaListing"
 SORT updated DESC
 ```
